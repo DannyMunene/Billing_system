@@ -1,0 +1,23 @@
+		**Welcome Customer**
+
+ Bill Number: 636
+
+ Customer Name: Danny
+
+ Phone Number: 1234567890
+
+*******************************************************Product			Quantity			Price
+*******************************************************
+Bath Soap			1			20 Kes
+Hair Gel			2			160 Kes
+Oil			3			300 Kes
+Unga			5			600 Kes
+Afia			6			300 Kes
+Delmonte			8			400 Kes
+*******************************************************
+cosmetictax				 21.599999999999998Kes
+grocerytax				 45.0Kes
+drinkstax				 56.0Kes
+
+Total Bill				 1902.6
+*******************************************************

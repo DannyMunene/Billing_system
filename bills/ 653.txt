@@ -1,0 +1,35 @@
+		**Welcome Customer**
+
+ Bill Number: 653
+
+ Customer Name: Danny
+
+ Phone Number: 123456789
+
+*******************************************************Product			Quantity			Price
+*******************************************************
+Bath Soap			1			20 Kes
+Hair Spray			4			600 Kes
+Face Cream			2			100 Kes
+Face Wash			3			300 Kes
+Hair Gel			5			400 Kes
+Body Lotion			6			360 Kes
+Rice			7			210 Kes
+Oil			8			800 Kes
+Unga			9			1080 Kes
+Wheat			1			50 Kes
+Sugar			2			280 Kes
+Tea			3			240 Kes
+Afia			4			200 Kes
+Pepsi			5			250 Kes
+Sprite			6			300 Kes
+Quencher			7			350 Kes
+Cocacola			8			400 Kes
+Delmonte			9			450 Kes
+*******************************************************
+cosmetictax				 213.6Kes
+grocerytax				 133.0Kes
+drinkstax				 156.0Kes
+
+Total Bill				 6892.6
+*******************************************************
