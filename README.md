@@ -25,7 +25,7 @@ A simple desktop billing system built with Python and Tkinter for small-scale re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/billing-system.git
+   git clone https://github.com/dannymunene/billing-system.git
    cd billing-system
 Run the program:
 
